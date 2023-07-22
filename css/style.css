@@ -1,0 +1,165 @@
+.header{
+    background-image: url(../img/light-gray-concrete-wall.jpg);
+}
+h1,h2{
+    font-family: Calisto MT;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h2{
+    font-size: 32px;
+}
+
+h1{
+margin-top: 65px;
+margin-bottom: 65px;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.main-line{
+    border: 1px solid black;
+   
+}
+.about_course{
+    margin-top: 50px;
+}
+h4{
+    font-family: Calisto MT;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+justify-content: center;
+
+}
+.second-line{
+    border: 1px solid black;
+    width: 20px;
+    margin: 0 auto;
+}
+.for-whom h4{
+    border: 1px solid black;
+    padding: 20px 10px;
+}
+.itd-btn{
+    padding: 10px 20px;
+    height: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    margin: 0 auto;
+    color: white;
+text-align: center;
+font-family: Calisto MT;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -3.36px;
+}
+.accordion-item{
+    border: 1px solid #D9D9D9;
+}
+.accordion-button{
+    color: #AAA;
+text-align: center;
+/* main font smaller */
+font-family: Calisto MT;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.educational-process h4{
+    border: 1px solid black;
+    padding: 20px 10px;
+}
+.about-author p{
+    color: #000;
+text-align: center;
+/* main font smaller */
+font-family: Calisto MT;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h5{
+    color: #000;
+text-align: center;
+/* main font smaller */
+font-family: Calisto MT;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+}
+.quote{
+   border-radius: 19px;
+    border: 1px solid #AAA;
+    padding: 20px 10px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+}
+.img-form{
+    padding: 10px 10px;
+}
+input{
+    opacity: 0.5;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+   margin: 0 auto;
+   color: #AAA;
+/* main font smaller */
+font-family: Calisto MT;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+form{
+    padding: 20px 10px;
+    
+    
+    display: block;
+    margin: 0 auto;
+   
+}
+.footer{
+    background-image: url(../img/light-gray-concrete-wall.jpg);
+}
+.header p{
+    color: #000;
+font-family: Californian FB;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 10px 10px;
+}
+.itd-img{
+    display: block;
+    margin: 0 auto;
+ }
+ .year-footer{
+    display: flex;
+    justify-content: right;
+    padding: 10px 20px;
+    
+ }

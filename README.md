@@ -1,5 +1,5 @@
 ﻿<h1> LandingPage</h1>
-<p>This is a new adaptive landing page gor interior design courses. Simple, minimalistic and informative.</p>
+<p>This is a new adaptive landing page for interior design courses. Simple, minimalistic and informative.</p>
 <h1>Tools for development:</h1>
 <li>HTML</li>
 <li>CSS</li>
